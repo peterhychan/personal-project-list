@@ -4,6 +4,8 @@
 
 This is an [API](https://personal-project-list.now.sh/) which users can fetch an array of side-projects along with the details of each which are belong to Peter (Ho Yeung) Chan.
 
+### [THIS](https://github.com/peterhychan/peterhychan-page-fetch) is my old personal portfolio page which fetched info from this API.
+
 ### How it works
 
 Users can fetch the response by using the native JavaScript function of `fetch` or by using third-party libraries such as `axios`. At this moment, it is a read-only API. 
